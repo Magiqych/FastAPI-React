@@ -1,2 +1,5 @@
 パスワードとか漏れちゃいけないもの.env
 hoge.code-workspace
+.vscode
+.venv
+__pycache__
